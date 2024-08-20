@@ -74,7 +74,7 @@ The design was simulated and tested using Xilinx ISE/Vivado to ensure that the i
 The project successfully blurred the 12x12 grayscale image using the Gaussian Kernel. The implementation met all design requirements and was verified through simulation.
 
 ### Conclusion
-This project demonstrated an effective approach to image processing using Verilog. The combination of DataPath and Controller design allowed for efficient handling of the image blurring task. The success of this project was recognized with a first-place award at the Aabiskar 2024 Technical Fest.
+This project demonstrated an effective approach to image processing using Verilog. The combination of DataPath and Controller design allowed for efficient handling of the image blurring task.
 
 ### Acknowledgments
 We would like to thank our college and the organizers of Aabiskar 2024 for allowing us to present our work. Special thanks to our mentors and peers for their support and guidance.
