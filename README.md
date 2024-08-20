@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to perform image blurring on a grayscale image using a Gaussian Kernel of size 5x5. The entire implementation is done using Verilog in Xilinx ISE/Vivado. The project was presented at the Aabiskar 2024 Technical Fest at our college, where it achieved first place.
+This project aims to perform image blurring on a grayscale image using a Gaussian Kernel of size 5x5. The entire implementation is done using Verilog in Xilinx ISE/Vivado. The project was presented at the Avishkar 2024 Technical Fest at our college, where we were the Runner up.
 
 ## Project Objective
 
