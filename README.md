@@ -77,7 +77,7 @@ The project successfully blurred the 12x12 grayscale image using the Gaussian Ke
 This project demonstrated an effective approach to image processing using Verilog. The combination of DataPath and Controller design allowed for efficient handling of the image blurring task.
 
 ### Acknowledgments
-We would like to thank our college and the organizers of Aabiskar 2024 for allowing us to present our work. Special thanks to our mentors and peers for their support and guidance.
+We would like to thank our college and the organizers of Avishkar 2024 for allowing us to present our work. Special thanks to our mentors and peers for their support and guidance.
 
 
 
