@@ -4,7 +4,7 @@ module BRAM_1(
     input rd_v,
     output [7:0] gauss_data
 );
-reg [199:0] temp_sumit;
+reg [199:0] temp_s;
    reg [7:0] kernel [4:0][4:0] = {
        {4, 9, 12, 9, 4},
        {5, 12, 15, 12, 5},
